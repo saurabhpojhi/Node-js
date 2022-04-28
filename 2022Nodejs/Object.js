@@ -15,3 +15,9 @@ var person = function(a,b){
 }
 
 person(4,5);  // call the function
+
+
+// Arrow function
+
+var users=(a)=>{console.log("arrow fun1 with parameter"+a);}
+users(5);
