@@ -4,4 +4,4 @@
 // a.percent(20, 100);
 
 
-const fs = require("fs");
+console.log('hhhhhhhhhhhhhhhhhhhh')
