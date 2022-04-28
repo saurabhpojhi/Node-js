@@ -9,3 +9,9 @@ console.log(user.age);
 
 // Anonymos function
 
+var person = function(a,b){
+    var c = a+b;
+    console.log("addition of a and b =" +c);
+}
+
+person(4,5);  // call the function
